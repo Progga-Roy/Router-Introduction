@@ -1,0 +1,10 @@
+.s-post{
+    margin-top: 10px;
+}
+button{
+    padding: 10px ;
+    margin: 10px;
+    background-color: rgb(165, 203, 203);
+    color: black;
+    border-radius: 8px;
+}
