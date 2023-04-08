@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLoaderData, useNavigate } from 'react-router-dom';
-import SinglePost from '../SinglePost/SinglePost';
+
 
 const ShowPost = () => {
     const showPost = useLoaderData()
